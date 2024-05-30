@@ -2,7 +2,7 @@
   "name": "eslint-dont-fixme",
   "version": "1.0.0",
   "description": "custom eslint rule to prefer TODO over FIXME comments for consistency",
-  "main": "index.js",
+  "main": "eslint-dont-fixme/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Vandivier/eslint-dont-fixme#readme",
   "devDependencies": {
-    "eslint": "^9.3.0"
+    "eslint": "8.57.0"
   }
 }
