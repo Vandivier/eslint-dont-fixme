@@ -1,0 +1,22 @@
+{
+  "name": "eslint-dont-fixme",
+  "version": "1.0.0",
+  "description": "custom eslint rule to prefer TODO over FIXME comments for consistency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vandivier/eslint-dont-fixme.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "John Vandivier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vandivier/eslint-dont-fixme/issues"
+  },
+  "homepage": "https://github.com/Vandivier/eslint-dont-fixme#readme"
+}
