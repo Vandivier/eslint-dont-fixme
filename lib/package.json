@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Vandivier/eslint-dont-fixme/issues"
   },
-  "homepage": "https://github.com/Vandivier/eslint-dont-fixme#readme"
+  "homepage": "https://github.com/Vandivier/eslint-dont-fixme#readme",
+  "devDependencies": {
+    "eslint": "^9.3.0"
+  }
 }
