@@ -1,6 +1,13 @@
 import Image from "next/image";
 
 export default function Home() {
+  // FIXME: This needs to be refactored
+  // Note: It doesn't really need to be refactored
+  // ...we just want to test the FIXME rule lol
+  const someFunction = () => {
+    console.log("test");
+  };
+
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
